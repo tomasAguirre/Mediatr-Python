@@ -1,5 +1,4 @@
 #pip install mediatr
-import asyncio
 from mediatr import Mediator
 
 
